@@ -1,7 +1,11 @@
-## My stats:
+## Hi there!
+### Me
+I am a 13-year-old Web, Go and a bit Python developer.
+
+### My stats:
 <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
-## My projects:
+### My projects:
 - [GoFileEncoder](https://github.com/eliotttak/GoFileEncoder) - A little XOR file encoder, written in Golang.
 - [csv_parser](https://github.com/eliotttak/csv_parser) - A hand-made CSV parser written in Node.js
 - [color-format-converter](https://github.com/eliotttak/GoFileEncoder) - A color format converter available on [color-format-converter.onrender.com](https://color-format-converter.onrender.com)
