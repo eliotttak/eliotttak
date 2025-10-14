@@ -7,7 +7,6 @@ I am a 13-year-old Web, Go and a bit Python developer.
 
 ### My projects:
 - [GoFileEncoder](https://github.com/eliotttak/GoFileEncoder) - A little XOR file encoder, written in Golang.
-- [csv_parser](https://github.com/eliotttak/csv_parser) - A hand-made CSV parser written in Node.js
 - [color-format-converter](https://github.com/eliotttak/GoFileEncoder) - A color format converter available on [color-format-converter.onrender.com](https://color-format-converter.onrender.com)
 - [chat](https://github.com/eliotttak/chat) - A little chat with only one functionnality : send messages. Available on [chat-8518.onrender.com](https://chat-8518.onrender.com/)
 - [smtp](https://github.com/eliotttak/smtp) - A little SMTP client (but I haven't tested it for a long time, so maybe it no longer work...)
