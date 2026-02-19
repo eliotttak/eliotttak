@@ -1,6 +1,6 @@
 ## Hi there!
 ### Me
-I am a 13-year-old Web, Go and a bit Python developer.
+I am a Web, Go and a bit Python developer.
 
 ### My stats:
 <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
