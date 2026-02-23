@@ -2,6 +2,8 @@
 ### Me
 I am a Web, Go and a bit Python developer.
 
+PGP key for <eliott@etik.com>: <https://keys.openpgp.org/vks/v1/by-fingerprint/E2A86B49340186A86F9C7A1CBD914F05815E55FA>
+
 ### My stats:
 <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
