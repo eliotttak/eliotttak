@@ -25,7 +25,8 @@ I use PGP signing and encryption.
 Commits should be verified with the PGP key `BD914F05815E55FA` (fingerprint: `E2A8 6B49 3401 86A8 6F9C 7A1C BD91 4F05 815E 55FA`). Download it from [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/E2A86B49340186A86F9C7A1CBD914F05815E55FA) or install it with `gpg --keyserver hkps://keys.openpgp.org --recv-keys E2A86B49340186A86F9C7A1CBD914F05815E55FA`. Feel free to sign it ;-)
 
 ## Contact
-E-mail: <eliott@etik.com>. If you use PGP, use [these keys](#pgp-keys)
+- E-mail: <eliott@etik.com>. If you use PGP, use [these keys](#pgp-keys)
+- [GitHub Discussion](https://github.com/eliotttak/eliotttak/discussions) (on [eliotttak/eliotttak](https://github.com/eliotttak/eliotttak))
 
 <!--
 **eliotttak/eliotttak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
