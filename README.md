@@ -8,8 +8,7 @@
 
 I am a Web, Go and a bit Python developer.
 
-<img src="https://github.com/eliotttak/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/eliotttak/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/eliotttak/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /> <img src="https://github.com/eliotttak/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 ## Projects:
 - [GoFileEncoder](https://github.com/eliotttak/GoFileEncoder) - A little XOR file encoder, written in Golang.
